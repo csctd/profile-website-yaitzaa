@@ -1,6 +1,6 @@
-# Page Title
+# About Me
 
-A short introduction for the top of your main page
+I am a computer science major going into my freshman year starting this fall.
 
 
 More content you want on your page
@@ -8,9 +8,9 @@ More content you want on your page
 
 
 <!-- use this to make a menu when you add more pages -->
-<!-- ```{toctree}
+```{toctree}
 :maxdepth: 2
 :hidden:
 
 pechakucha
-``` -->
+```
