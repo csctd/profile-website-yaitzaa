@@ -4,9 +4,6 @@ I am a computer science major going into my freshman year starting this fall. Be
 
 
 
-
-
-
 <!-- use this to make a menu when you add more pages -->
 ```{toctree}
 :maxdepth: 2
