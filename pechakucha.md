@@ -76,4 +76,39 @@
 ![walrus](_static/img/walrus.jpeg)
 ```
 
+```{card}
+:class-card: slide
+![hearts](_static/img/Hearts.jpeg)
+```
+
+```{card}
+:class-card: slide
+![Hillside](_static/img/Hillside.jpeg)
+```
+
+```{card}
+:class-card: slide
+![multicultural](_static/img/multicultural.jpeg)
+```
+
+```{card}
+:class-card: slide
+![flowers1](_static/img/flowers1.jpeg)
+```
+
+```{card}
+:class-card: slide
+![flowers2](_static/img/flowers2.jpeg)
+```
+
+```{card}
+:class-card: slide
+![flowers2](_static/img/flowers2.jpeg)
+```
+
+```{card}
+:class-card: slide
+![building](_static/img/building.jpeg)
+```
+
 </div>

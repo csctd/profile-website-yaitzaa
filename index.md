@@ -1,9 +1,9 @@
 # About Me
 
-I am a computer science major going into my freshman year starting this fall.
+I am a computer science major going into my freshman year starting this fall. Being apart of Talent Development has given me the opportunity to gain the URI experience. During my Talent Development experience, I have taken photos of URI and some activities I did after my classes. 
 
 
-More content you want on your page
+
 
 
 
