@@ -103,11 +103,6 @@
 
 ```{card}
 :class-card: slide
-![flowers2](_static/img/flowers2.jpeg)
-```
-
-```{card}
-:class-card: slide
 ![building](_static/img/building.jpeg)
 ```
 
